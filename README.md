@@ -15,6 +15,10 @@ And the same command to run Groceries on Android:
 $ tns run android
 ```
 
+<h2 id="Usage">Demo run</h2>
+
+![alt text](screenshot/demo-nativescript-maskinput.gif)
+
 <h2 id="thanks">Thanks to - </h2>
 
  The following project uses nativescript-maskedinput plugin https://github.com/bthurlow/nativescript-maskedinput
