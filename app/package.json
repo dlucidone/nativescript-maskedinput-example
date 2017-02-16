@@ -1,0 +1,94 @@
+{
+  "private": false,
+  "nativescript": {
+    "id": "org.nativescript.helloworldng"
+  },
+  "name": "tns-template-hello-world-ng",
+  "main": "main.js",
+  "version": "2.5.0",
+  "author": {
+    "name": "Telerik",
+    "email": "support@telerik.com"
+  },
+  "description": "Nativescript Angular Hello World template",
+  "license": "Apache-2.0",
+  "keywords": [
+    "telerik",
+    "mobile",
+    "angular",
+    "nativescript",
+    "{N}",
+    "tns",
+    "appbuilder",
+    "template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NativeScript/template-hello-world-ng.git"
+  },
+  "homepage": "https://github.com/NativeScript/template-hello-world-ng",
+  "android": {
+    "v8Flags": "--expose_gc"
+  },
+  "dependencies": {
+    "nativescript-theme-core": "~1.0.2",
+    "nativescript-angular": "1.4.0",
+    "@angular/core": "2.4.3",
+    "@angular/common": "2.4.3",
+    "@angular/compiler": "2.4.3",
+    "@angular/http": "2.4.3",
+    "@angular/platform-browser": "2.4.3",
+    "@angular/platform-browser-dynamic": "2.4.3",
+    "@angular/forms": "2.4.3",
+    "@angular/router": "3.4.3",
+    "rxjs": "~5.0.1",
+    "reflect-metadata": "~0.1.8"
+  },
+  "devDependencies": {
+    "zone.js": "~0.7.2",
+    "typescript": "~2.1.0",
+    "nativescript-dev-typescript": "~0.3.5",
+    "nativescript-dev-android-snapshot": "^0.*.*"
+  },
+  "bugs": {
+    "url": "https://github.com/NativeScript/template-hello-world-ng/issues"
+  },
+  "_id": "tns-template-hello-world-ng@2.5.0",
+  "_shasum": "5962fdef0f17cdbfc4e8103908ddc6af8d3c15db",
+  "_resolved": "https://registry.npmjs.org/tns-template-hello-world-ng/-/tns-template-hello-world-ng-2.5.0.tgz",
+  "_from": "tns-template-hello-world-ng@latest",
+  "scripts": {},
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.4",
+  "_npmUser": {
+    "name": "tns-bot",
+    "email": "nativescript@telerik.com"
+  },
+  "dist": {
+    "shasum": "5962fdef0f17cdbfc4e8103908ddc6af8d3c15db",
+    "tarball": "https://registry.npmjs.org/tns-template-hello-world-ng/-/tns-template-hello-world-ng-2.5.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "hdeshev",
+      "email": "hristo@deshev.com"
+    },
+    {
+      "name": "hhristov",
+      "email": "hristo.hristov@outlook.com"
+    },
+    {
+      "name": "tns-bot",
+      "email": "nativescript@telerik.com"
+    },
+    {
+      "name": "vakrilov",
+      "email": "alexander.vakrilov@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/tns-template-hello-world-ng-2.5.0.tgz_1485940336491_0.29488122556358576"
+  },
+  "directories": {}
+}
